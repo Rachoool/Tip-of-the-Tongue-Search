@@ -1,5 +1,5 @@
 # Timelog
-* The Tip-of-the-Tongue
+* The Tip-of-the-Tongue Search
 * Jiarui Li
 * 2530735l
 * Sean MacAvaney
