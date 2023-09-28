@@ -19,3 +19,9 @@
 - *1 hour* Read the raleted essay
 ### 23rd September 2023
 - *2 hours* Read the related essay
+
+## Week 2
+### 26th September 2023
+- *0.3 hours* Write the meeting minutes
+### 28th September 2023
+- *0.5 hours* Read the related essay
