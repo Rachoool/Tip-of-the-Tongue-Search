@@ -24,4 +24,6 @@
 ### 26th September 2023
 - *0.3 hours* Write the meeting minutes
 ### 28th September 2023
-- *0.5 hours* Read the related essay
+- *0.5 hours* Read the related essay "On the Tip of the Tongue: What Causes Word Finding Failures in Young and Older Adults?"
+### 29th September 2023
+- *1.5 hour* Read the related essay "On the Tip of the Tongue: What Causes Word Finding Failures in Young and Older Adults?"
