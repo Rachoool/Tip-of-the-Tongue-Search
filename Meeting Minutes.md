@@ -28,6 +28,16 @@ Present: [Jiarui Li, Sean MacAvaney]
   - Find a public Reddit that shows the age of user
   - Infer a user's age based on other information they post
   - Use existing classifiers to predict the age of users
-* Discuss three papers you saw last week
+* Discuss three papers I saw last week
 ### Objectives for this week:
 * Read the literature related to tip-of-the-tongue search and memory loss with age.
+
+
+## Meeting notes for October 1st, 2023
+### Achieved in the previous week:
+* Samarth Bhargav has no other literature on TOT Search.
+* Review papers:
+  - On the Tip-of-Tongue: What cause word finding failures in young and older adults?
+  - Lexical knowledge and Lexical retrieval in aging
+  - Tip-of-Tongue in aging: Influence of vocabulary, working memory and processing speed
+  - all these papers do not provide a new dataset, their data came from volunteers of different age groups.
