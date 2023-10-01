@@ -40,4 +40,4 @@ Present: [Jiarui Li, Sean MacAvaney]
   - On the Tip-of-Tongue: What cause word finding failures in young and older adults?
   - Lexical knowledge and Lexical retrieval in aging
   - Tip-of-Tongue in aging: Influence of vocabulary, working memory and processing speed
-  - all these papers do not provide a new dataset, their data came from volunteers of different age groups.
+* all these papers do not provide a new dataset, their data came from volunteers of different age groups.
