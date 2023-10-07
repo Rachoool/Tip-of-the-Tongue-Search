@@ -34,10 +34,22 @@ Present: [Jiarui Li, Sean MacAvaney]
 
 
 ## Meeting notes for October 1st, 2023
+
+Time: 12:30PM - 1:00PM
+
+Present: [Jiarui Li, Sean MacAvaney]
 ### Achieved in the previous week:
-* Samarth Bhargav has no other literature on TOT Search.
-* Review papers:
+- Samarth Bhargav has no other literature on TOT Search.
+- Review papers:
   - On the Tip-of-Tongue: What cause word finding failures in young and older adults?
   - Lexical knowledge and Lexical retrieval in aging
   - Tip-of-Tongue in aging: Influence of vocabulary, working memory and processing speed
-* all these papers do not provide a new dataset, their data came from volunteers of different age groups.
+- all these papers do not provide a new dataset, their data came from volunteers of different age groups.
+### Discussions at the meeting:
+- Disscuss three papers I saw last week
+- Decide to start experiments
+### Objectives for this week:
+- Look at the word with the existing Tip-of-the-Tongue dataset and build an index for the dataset
+- retrieval with some method (BM25)
+- learn tutorial
+- Thinking about how to use Reddit to infer a user's age
