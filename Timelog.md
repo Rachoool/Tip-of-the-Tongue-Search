@@ -27,9 +27,17 @@
 - *0.5 hours* Read essay "On the Tip of the Tongue: What Causes Word Finding Failures in Young and Older Adults?"
 ### 29th September 2023
 - *1.5 hour* Read essay "On the Tip of the Tongue: What Causes Word Finding Failures in Young and Older Adults?"
-### 1st Octorber 2023
+### 1st October 2023
 - *3 hour* Read essay "Lexical knowledge and lexical retrieval in ageing" and "Tip-of-the-tongue in aging: influence of vocabulary, working memory and processing speed"
 
 ## Week 3
-### 7th Octorber 2023
-- *2 hour* learn ir tutorial
+### 3rd October 2023
+- *0.3 hours* Write the meeting minutes
+### 7th October 2023
+- *2 hour* Learn ir tutorial Part 1
+### 8th October 2023
+- *1 hour* Learn ir tutorial Part 2
+
+## Week 4
+### 9th October 2023
+- *1 hour* learn ir tutorial Part 2
