@@ -41,3 +41,8 @@
 ## Week 4
 ### 9th October 2023
 - *1 hour* learn ir tutorial Part 2
+### 11th October 2023
+- *2 hours* learn ir tutorial Part 3
+- *0.5 hour* learn Pandas's syntax for DataFrame
+### 14th October 2-23
+- *2 hours* try to build index for trec_tot_dev dataset
