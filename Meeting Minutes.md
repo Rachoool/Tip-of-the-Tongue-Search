@@ -53,3 +53,13 @@ Present: [Jiarui Li, Sean MacAvaney]
 - retrieval with some method (BM25)
 - learn tutorial
 - Thinking about how to use Reddit to infer a user's age
+
+
+## Meeting notes for October 19, 2023
+Time: 16:00PM - 16:30PM
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous two weeks:
+- Learn IR tutorial
+- Learn Pandas's syntax about DataFrame
+- Try to build index for dataset trec_tot_dev
+- Try to retrieval with method BM25

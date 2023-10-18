@@ -44,5 +44,10 @@
 ### 11th October 2023
 - *2 hours* learn ir tutorial Part 3
 - *0.5 hour* learn Pandas's syntax for DataFrame
-### 14th October 2-23
+### 14th October 2023
 - *2 hours* try to build index for trec_tot_dev dataset
+
+## Week 5
+### 16th October 2023
+- *1 hour* Try to find a dataset and method about people's age on social network
+- *2 hours* Try to use BM25 to retrieval
