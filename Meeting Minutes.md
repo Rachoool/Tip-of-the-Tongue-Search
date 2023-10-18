@@ -57,6 +57,7 @@ Present: [Jiarui Li, Sean MacAvaney]
 
 ## Meeting notes for October 19, 2023
 Time: 16:00PM - 16:30PM
+
 Present: [Jiarui Li, Sean MacAvaney]
 ### Achieved in the previous two weeks:
 - Learn IR tutorial
