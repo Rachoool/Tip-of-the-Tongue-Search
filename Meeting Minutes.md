@@ -64,3 +64,7 @@ Present: [Jiarui Li, Sean MacAvaney]
 - Learn Pandas's syntax about DataFrame
 - Try to build index for dataset trec_tot_dev
 - Try to retrieval with method BM25
+### Discussions at the meeting:
+- Find a dataset about user's age and their comments
+### Objectives for this week:
+- Follow the guide on github to run the PAN16-Author-Profiling database through classifier and make sure getting similar results.
