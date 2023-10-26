@@ -51,3 +51,13 @@
 ### 16th October 2023
 - *1 hour* Try to find a dataset and method about people's age on social network
 - *2 hours* Try to use BM25 to retrieval
+### 21st October 2023
+- *2 hours* Follow the guide to run the Pre-Requisites(mvn cannot run correctly)
+### 22nd October 2023
+- *1 hour* Solve the mvn problem(solved)
+
+## Week 6
+### 23rd October 2023
+- *2 hours* Follow the guide to run QuickStart(encounter version-related problems)
+### 24th October 2023
+- *2 hours* Try to solve the error(not solve)

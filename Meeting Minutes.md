@@ -68,3 +68,12 @@ Present: [Jiarui Li, Sean MacAvaney]
 - Find a dataset about user's age and their comments
 ### Objectives for this week:
 - Follow the guide on github to run the PAN16-Author-Profiling database through classifier and make sure getting similar results.
+
+
+## Meeting notes for October 27, 2023
+Time: 15:00PM - 15:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous two weeks:
+- Run Pre-Requisites correctly
+- Problems running QuickStart
