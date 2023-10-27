@@ -77,3 +77,7 @@ Present: [Jiarui Li, Sean MacAvaney]
 ### Achieved in the previous two weeks:
 - Run Pre-Requisites correctly
 - Problems running QuickStart
+### Discussions at the meeting:
+- Fixes an issue where QuickStart does not run successfully because of a version issue
+### Objectives for this week:
+- Run the AgePredictor model on Tip-of-the-Tongue dataset
