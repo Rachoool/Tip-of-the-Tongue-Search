@@ -61,3 +61,10 @@
 - *2 hours* Follow the guide to run QuickStart(encounter version-related problems)
 ### 24th October 2023
 - *2 hours* Try to solve the error(not solve)
+
+## Week 7
+### 30th October 2023
+- *1.5 hours* Filter the corpus and check which is users' comments
+### 4th November 2023
+- *1 hour* Run Trec-TOT dataset on AgePredictor and check the age prediction interval
+- *0.5 hour* Trying to find out why the predicted age range is so concentrated

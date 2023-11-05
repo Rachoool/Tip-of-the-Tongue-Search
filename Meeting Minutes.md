@@ -81,3 +81,13 @@ Present: [Jiarui Li, Sean MacAvaney]
 - Fixes an issue where QuickStart does not run successfully because of a version issue
 ### Objectives for this week:
 - Run the AgePredictor model on Tip-of-the-Tongue dataset
+
+
+## Meeting notes for November 6, 2023
+Time: 12:30PM - 13:00PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous two weeks:
+- Successfully run the trec-tot dataset on AgePredictor
+- View results predicted with AgePredictor
+- The range of predicted ages was found to be between 30 and 37.（The reason might be the distribution of the original AgePredictor's training set is different with the data I need to infer on age.）
