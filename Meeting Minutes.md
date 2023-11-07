@@ -91,3 +91,8 @@ Present: [Jiarui Li, Sean MacAvaney]
 - Successfully run the trec-tot dataset on AgePredictor
 - View results predicted with AgePredictor
 - The range of predicted ages was found to be between 30 and 37.（The reason might be the distribution of the original AgePredictor's training set is different with the data I need to infer on age.）
+### Discussions at the meeting:
+- The AgePredictor Predictor is not accurate and how to find users' age based on the reviews they've used
+### Objectives for this week:
+- Find more age-related descriptions on websites and Reddit and get an estimate of how many users there are
+- Considering other research directions, what else can we do with this dataset that doesn't depend on the age of the user
