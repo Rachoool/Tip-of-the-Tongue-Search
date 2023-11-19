@@ -96,3 +96,13 @@ Present: [Jiarui Li, Sean MacAvaney]
 ### Objectives for this week:
 - Find more age-related descriptions on websites and Reddit and get an estimate of how many users there are
 - Considering other research directions, what else can we do with this dataset that doesn't depend on the age of the user
+
+
+## Meeting notes for November 20, 2023
+Time: 12:30PM - 13:00PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous two weeks:
+- Use different keyword to search users‘ posts on websites that can be used to estimate users’ age
+- Two alternative directions were considered
+- Use crawler(beautifulsoup) to catch posts from users of my Remeber this Movie site in two categories (solved and unsolved)

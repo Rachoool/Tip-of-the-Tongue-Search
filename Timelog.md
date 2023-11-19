@@ -68,3 +68,19 @@
 ### 4th November 2023
 - *1 hour* Run Trec-TOT dataset on AgePredictor and check the age prediction interval
 - *0.5 hour* Trying to find out why the predicted age range is so concentrated
+
+## Week 8
+### 7th November 2023
+- *0.5 hour* Use different keyword to search users‘ posts on 'I Remember this Movie' website that can be used to estimate users’ age
+### 8th November 2023
+- *0.5 hour* Use different keyword to search users‘ posts on Reddit website that can be used to estimate users’ age
+- *1 hour* Consider another direction without estimating users' age
+
+
+## Week 9
+### 13th November 2023
+- *1.5 hour* Consider another direction related to the user's mis remember and look for data sets that can be used 
+### 14th NoNovember 2023
+- *1 hour* learn the clawer (beautifulsoup)
+### 15th NoNovember 2023
+- *1 hour* use clawer to get users' posts for two categories (solved and unsolved) 
