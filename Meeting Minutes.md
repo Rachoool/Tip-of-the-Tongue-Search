@@ -106,3 +106,9 @@ Present: [Jiarui Li, Sean MacAvaney]
 - Use different keyword to search users‘ posts on websites that can be used to estimate users’ age
 - Two alternative directions were considered
 - Use crawler(beautifulsoup) to catch posts from users of my Remeber this Movie site in two categories (solved and unsolved)
+### Discussions at the meeting:
+- how to implement the direction about the users' mis remember
+- how to use pyterrier to indexing and retreval
+### Objectives for this week:
+- Follow the pyterrier indexing demo to indexing for the text in corpus
+- Follow the Retrieval and Evaluation colab to retrieval the queriers
