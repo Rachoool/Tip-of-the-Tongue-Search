@@ -112,3 +112,16 @@ Present: [Jiarui Li, Sean MacAvaney]
 ### Objectives for this week:
 - Follow the pyterrier indexing demo to indexing for the text in corpus
 - Follow the Retrieval and Evaluation colab to retrieval the queriers
+
+
+## Meeting notes for December 11, 2023
+Time: 12:30PM - 13:00PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- finish indexing for the text in corpus
+- finish the retrival and evaluation for the queriers
+### Discussions at the meeting:
+- Discuss the correctness of the results of indexing and retrieval
+### Objectives for this week:
+- Use the GPT model (llama) to extract from the text what genre, actor or time it might be talking about
