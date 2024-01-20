@@ -125,3 +125,18 @@ Present: [Jiarui Li, Sean MacAvaney]
 - Discuss the correctness of the results of indexing and retrieval
 ### Objectives for this week:
 - Use the GPT model (llama) to extract from the text what genre, actor or time it might be talking about
+
+
+## Meeting notes for January 17, 2024
+Time: 13:00PM - 13:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- Unable to use the univerisity's Llama api due to Connection error, and found another Llama api that could be used to carry out the extraction task
+- Use Llama initially to extract the language, genre, character's name, city and release year from the text
+### Discussions at the meeting:
+- How to use the university's api
+- The response generated was not the result my question intended
+- How to avoid encountering api max_length limits
+### Objectives for this week:
+- Use the context learning approach with university's api to give examples in the prompt to get the expected response
