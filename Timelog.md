@@ -5,8 +5,9 @@
 * Sean MacAvaney
 
 
-## Week 1
+# Semester 1
 
+## Week 1
 ### 18th September 2023
 - *0.5 hour* Meeting with superisor
 - *0.5 hour* Search related essay on Google Scholar and download them
@@ -76,11 +77,48 @@
 - *0.5 hour* Use different keyword to search users‘ posts on Reddit website that can be used to estimate users’ age
 - *1 hour* Consider another direction without estimating users' age
 
-
 ## Week 9
 ### 13th November 2023
 - *1.5 hour* Consider another direction related to the user's mis remember and look for data sets that can be used 
-### 14th NoNovember 2023
+### 14th November 2023
 - *1 hour* learn the clawer (beautifulsoup)
-### 15th NoNovember 2023
+### 15th November 2023
 - *1 hour* use clawer to get users' posts for two categories (solved and unsolved) 
+
+## Week 10
+### 25 November 2023
+- *1.5 hour* indexing for the text in dev set
+### 26 November 2023
+- *0.5 hour* indexing for the text in dev set
+
+## Week 12
+### 09 December 2023
+- *1.5 hour* Do the Retrieval and Evaluation step for the dev set
+- *1 hour* Calculate the MAP and nDCG score 
+
+## Week 13
+### 13 December 2023
+- *2 hours* Use university's Llama api to extract features
+### 14 December 2023
+- *1 hour* Find another Llama api and wait for the authenticate and get the key to use this api
+### 17 December 2023
+- *1.5 hour* Find the document for this api and learn how to use it
+- *2.5 hours* Use Llama api to extract features plot, genre, character's infomation, city, and release date
+
+
+# Semester 2
+
+## Week 1
+### 8 January 2024
+- *1 hour* Change the parameter based on the extracted contents
+- *1.5 hour* Change the plot to language
+### 14 January 2024
+- *0.5 hour* Try to use university's api with vpn
+
+## Week 2
+### 20 January 2024
+- *4.5 hours* Add context learning for the language, genre, character's info, city and release date
+### 21 January 2024
+- *2.5 hours* Change the character's info to music, and change the city to location
+- *1 hour* Clean all the outputs and save them in the same format
+
