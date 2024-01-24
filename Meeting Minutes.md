@@ -140,3 +140,16 @@ Present: [Jiarui Li, Sean MacAvaney]
 - How to avoid encountering api max_length limits
 ### Objectives for this week:
 - Use the context learning approach with university's api to give examples in the prompt to get the expected response
+
+
+## Meeting notes for January 24, 2024
+Time: 13:00PM - 13:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- Use context learing with university's api to give examples in the prompt to get the reasonable response
+### Discussions at the meeting:
+- Discuss the tasks for the next week
+### Objectives for this week:
+- Remove some of the features from the query that extracted before, and calculate the MAP score
+- Check whether the original content of the movie contains the extracted content
