@@ -153,3 +153,18 @@ Present: [Jiarui Li, Sean MacAvaney]
 ### Objectives for this week:
 - Remove some of the features from the query that extracted before, and calculate the MAP score
 - Check whether the original content of the movie contains the extracted content
+
+
+## Meeting notes for January 31, 2024
+Time: 13:00PM - 13:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- Remove some of the features from the query that extracted before, and calculate the MAP score
+### Discussions at the meeting:
+- Discuss th results already achieved
+- Discuss the tasks for the next week
+### Objectives for this week:
+- Check whether the original content of the movie contains the extracted content and calculate the accuracy
+- Extract the correct features from the corpus and re-add them to the query, and calculate the MAP at this point to see if there can be some improvement
+- Consider about five research questions (two about age and three about extraction)

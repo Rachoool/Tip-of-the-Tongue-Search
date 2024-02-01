@@ -122,3 +122,17 @@
 - *2.5 hours* Change the character's info to music, and change the city to location
 - *1 hour* Clean all the outputs and save them in the same format
 
+Week 3
+### 27 January 2024
+- *1 hours* Changing Llama's parameters to make the extracted information more accurate
+- *3 hours* Remove date from the queries and calculate the MAP score
+### 28 January 2024
+- *3.5 hours* Remove language, location, genre and music from the queries and calculate the MAP score and nDCG
+- *1.5 hours* Remove two features and calculate the MAP score
+
+Week 4
+### 29 January 2024
+- *2 hours* Extract and clean the wikidata_id from corpus and dev queries
+### 30 January 2024
+- *2.5 hours* Manually set the conditions to find the range of extracted dates
+- *2 hours* Try to calculate the accuracy of date
