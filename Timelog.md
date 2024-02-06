@@ -136,3 +136,15 @@ Week 4
 ### 30 January 2024
 - *2.5 hours* Manually set the conditions to find the range of extracted dates
 - *2 hours* Try to calculate the accuracy of date
+### 3 February 2024
+- *3 hours* Re-delete the contents of the five features
+- *4.5 hours* Calculate the accuracy for date, genre, language, location, but there is no genre in the wikidata
+### 4 February 2024
+- *4 hours* Calculate the accuracy for music and create a table for all accuracy
+
+Week 5
+### 5 February 2024
+- *5 hours* Calcuale the MAP and nDCG scores for improved features(date, language, location, music)
+### 6 February 2024
+- *2 hours* Calculate the MAP and nDCG scores for add all wikidata(4 features)
+- *0.5 hour* Create the table for the Improved MAP and nDCG

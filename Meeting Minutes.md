@@ -168,3 +168,18 @@ Present: [Jiarui Li, Sean MacAvaney]
 - Check whether the original content of the movie contains the extracted content and calculate the accuracy
 - Extract the correct features from the corpus and re-add them to the query, and calculate the MAP at this point to see if there can be some improvement
 - Consider about five research questions (two about age and three about extraction)
+
+
+## Meeting notes for February 7, 2024
+Time: 13:00PM - 13:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- Calculate the accuracy for these 5 features, but there is no genre in the wikidata
+- Extract the correct features from the corpus and re-add them to the query, and calculate the MAP and nDCG 
+- Five research questions:
+  - Is it possible to identify the age of the person asking the TOT question
+  - How to get the ages of these people
+  - What are the main factors affecting the effectiveness of TOT
+  - What factors do users mention when asking TOT questions
+  - What is the impact of these factors on TOT as mentioned by the users
