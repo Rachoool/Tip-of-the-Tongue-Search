@@ -191,3 +191,16 @@ Present: [Jiarui Li, Sean MacAvaney]
 ### Objectives for this week:
 - Add factors for 5, 10 times and calculte MAP score
 - Write the outline of dissertation
+
+
+## Meeting notes for February 14, 2024
+Time: 13:00PM - 13:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- Add factors for 5, 10 times and calculte MAP score
+- Write the outline of dissertation
+### Discussions at the meeting:
+- Revising the details of dissertation outline
+### Objectives for this week:
+- Finish at least the Introduction and Background

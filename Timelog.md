@@ -148,3 +148,9 @@ Week 5
 ### 6 February 2024
 - *2 hours* Calculate the MAP and nDCG scores for add all wikidata(4 features)
 - *0.5 hour* Create the table for the Improved MAP and nDCG
+### 8 February 2024
+- *1.5 hours* Add factors for 5, 10 times and calculte MAP and nDCG score
+
+Week 6
+### 13 February 2024
+- *4.5 hours* write the disstertion outline
