@@ -183,3 +183,11 @@ Present: [Jiarui Li, Sean MacAvaney]
   - What are the main factors affecting the effectiveness of TOT
   - What factors do users mention when asking TOT questions
   - What is the impact of these factors on TOT as mentioned by the users
+### Discussions at the meeting:
+- How should research questions be asked
+- What should the hierarchy of these questions be
+- How to answer these questions
+- add these factor for many times to see the importance of them
+### Objectives for this week:
+- Add factors for 5, 10 times and calculte MAP score
+- Write the outline of dissertation
