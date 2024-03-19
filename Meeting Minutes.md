@@ -204,3 +204,64 @@ Present: [Jiarui Li, Sean MacAvaney]
 - Revising the details of dissertation outline
 ### Objectives for this week:
 - Finish at least the Introduction and Background
+
+
+## Meeting notes for February 28, 2024
+Time: 13:00PM - 13:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- Finish the Introduction and Background
+- Finish the Age Prediction and Key Factors in Methodology
+### Discussions at the meeting:
+- Discuss the method name of Feature deletion and Multi-Add Feature
+- Add a diagram to Introduction
+- Be aware of citation
+- Add a brief introduction to each chapter
+- Relate the related work to my research
+- Some details of the use of words and sentences how to change some academic
+- Add research question to Aim
+- Adjust the order of paragraphs
+### Objectives for this week:
+- Finish Methodology
+- Add some new section in Related Works
+- Change the previous sections based on the issues discussed in the meeting
+- Start to do the Experimental Setup
+
+
+## Meeting notes for March 6, 2024
+Time: 13:00PM - 13:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- Finish Methodology
+- Add some new section in Related Works
+- Change the previous sections based on the issues discussed in the meeting
+- Start to do the Experimental Setup
+### Discussions at the meeting:
+- Change the sentences and words to be more academic
+- Change the cited literature and do not cite wiki
+- Add some recall to the chapter
+- Add some introduction for subchapters
+- Notice the space in the parentheses before the abbreviation
+- Feature deletion and multi add feature, are introduced in detail
+- Merge Sections 3.1 and 3.2
+- Explain why these evaluation metrics are used
+### Objectives for this week:
+- Change the previous sections based on the issues discussed in the meeting
+- Finish the dissertation
+
+
+## Meeting notes for March 13, 2024
+Time: 13:00PM - 13:30PM
+
+Present: [Jiarui Li, Sean MacAvaney]
+### Achieved in the previous weeks:
+- Finish all the dissertation
+- Change the previous sections based on the issues discussed in the meeting
+### Discussions at the meeting:
+- Summarize the results for the tables in the evaluation section
+- Make some changes to the dissertation based on the feedback
+### Objectives for this week:
+- Make some change to the dissertation based on the issues discussed in the meeting
+- Finish the presentation

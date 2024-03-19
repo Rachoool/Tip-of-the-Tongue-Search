@@ -154,3 +154,90 @@ Week 5
 Week 6
 ### 13 February 2024
 - *4.5 hours* write the disstertion outline
+### 16 February 2024
+- *2 hours* write a part of Introduction
+### 17 February 2024
+- *1.5 hours* Finish the Introduction
+- *2 hours* Write the Related Works of Background
+### 18 February 2024
+- *2 hours* Write the Related Works of Background
+
+Week 7
+### 19 February 2024
+- *3 hours* Write the Related Works of Background
+### 20 February 2024
+- *3.5 hours* Write the Models of Background
+### 23 February 2024
+- *3 hours* Add some Related Works to Background
+### 24 February 2024
+- *6 hours* Add some Related Works to Background
+### 25 February 2024
+- *4 hours* Write Age Predictor in Methodology
+
+Week 8
+### 26 February 2024
+- *1 hours* Write Manual Analysis in Methodology
+- *2.5 hours* Write BM25 in Methodology
+- *1.5 hours* Write MAP in Methodology
+- *1.5 hours* Write nDCG in Methodology
+### 27 February 2024
+- *2 hours* Write dev-success@1000 in Methodology
+### 29 February 2024
+- *5 hours* Write Feature deletion and Multi-Add Feature in Methodology
+### 1 March 2024
+- *4.5 hours* Add some related works
+- *2.5 hours* Revise some details discussed in the meeting
+- *1 hour* Write Research Question in Experimental setup
+### 2 March 2024
+- *0.5 hour* Write the Computational Framework and Model Versioning
+- *1 hours* Write the dataset
+### 3 March 2024
+- *3.5 hours* Write the Age Prediction
+- *1 hour* write the Baseline
+
+Week 9
+### 4 March 2024
+- *4 hours* Rewrite the Feature Deletion and Multi-Add Feature in Methodology
+- *2.5 hours* Write the Factor Selection in Experimental setup
+- *1 hour* Write the Factor Deletion in Experimental setup
+### 5 March 2024
+- *2 hours* Write the Factor Deletion in Experimental setup
+- *2.5 hours* Write the Accuracy of Features in Experimental setup
+### 7 March 2024
+- *4 hours* Revise issues discussed in the meeting
+- *2.5 hours* Write the Feature deletion in Experimental setup
+### 8 March 2024
+- *2.5 hours* Write the Boosting in Experimental setup
+- *2 hours* Write the Age Prediction in Evaluation
+- *2 hours* Write the TOT search Baseline in Evaluation
+### 9 March 2024
+- *2 hours* Write the Feature Selection in Evaluation
+- *0.5 hours* Write the Research in Evaluation
+- *1.5 hours* Write the Accuracy of Features in Evaluation
+- *2 hours* Write the Feature Deletion in Evaluation
+### 10 March 2024
+- *2.5 hours* Write the Boosting in Evaluation
+- *1 hours* Write the Result in Evaluation
+- *1.5 hours* Write the Limitation in Evaluation
+
+
+Week 10
+### 11 March 2024
+- *2 hours* Write the Summary in Conclusion
+- *1.5 hours* Write the Future work in Conclusion
+### 12 March 2024
+- *1 hour* Write the Reflection in Conclusion
+- *3 hours* Revise issues discussed in the meeting
+### 15 March 2024
+- *3 hour* Revise issues discussed in the meeting
+### 16 March 2024
+- *2 hour* Revise issues discussed in the meeting
+### 17 March 2024
+- *2 hour* Revise issues discussed in the meeting
+
+
+Week 11
+### 19 March 2024
+- *2 hour* Revise issues discussed in the meeting
+- *3 hours* Do the presentation's slides
+
