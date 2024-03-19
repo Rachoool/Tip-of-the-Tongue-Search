@@ -122,7 +122,7 @@
 - *2.5 hours* Change the character's info to music, and change the city to location
 - *1 hour* Clean all the outputs and save them in the same format
 
-Week 3
+## Week 3
 ### 27 January 2024
 - *1 hours* Changing Llama's parameters to make the extracted information more accurate
 - *3 hours* Remove date from the queries and calculate the MAP score
@@ -130,7 +130,7 @@ Week 3
 - *3.5 hours* Remove language, location, genre and music from the queries and calculate the MAP score and nDCG
 - *1.5 hours* Remove two features and calculate the MAP score
 
-Week 4
+## Week 4
 ### 29 January 2024
 - *2 hours* Extract and clean the wikidata_id from corpus and dev queries
 ### 30 January 2024
@@ -142,7 +142,7 @@ Week 4
 ### 4 February 2024
 - *4 hours* Calculate the accuracy for music and create a table for all accuracy
 
-Week 5
+## Week 5
 ### 5 February 2024
 - *5 hours* Calcuale the MAP and nDCG scores for improved features(date, language, location, music)
 ### 6 February 2024
@@ -151,7 +151,7 @@ Week 5
 ### 8 February 2024
 - *1.5 hours* Add factors for 5, 10 times and calculte MAP and nDCG score
 
-Week 6
+## Week 6
 ### 13 February 2024
 - *4.5 hours* write the disstertion outline
 ### 16 February 2024
@@ -162,7 +162,7 @@ Week 6
 ### 18 February 2024
 - *2 hours* Write the Related Works of Background
 
-Week 7
+## Week 7
 ### 19 February 2024
 - *3 hours* Write the Related Works of Background
 ### 20 February 2024
@@ -174,7 +174,7 @@ Week 7
 ### 25 February 2024
 - *4 hours* Write Age Predictor in Methodology
 
-Week 8
+## Week 8
 ### 26 February 2024
 - *1 hours* Write Manual Analysis in Methodology
 - *2.5 hours* Write BM25 in Methodology
@@ -195,7 +195,8 @@ Week 8
 - *3.5 hours* Write the Age Prediction
 - *1 hour* write the Baseline
 
-Week 9
+
+## Week 9
 ### 4 March 2024
 - *4 hours* Rewrite the Feature Deletion and Multi-Add Feature in Methodology
 - *2.5 hours* Write the Factor Selection in Experimental setup
@@ -221,7 +222,7 @@ Week 9
 - *1.5 hours* Write the Limitation in Evaluation
 
 
-Week 10
+## Week 10
 ### 11 March 2024
 - *2 hours* Write the Summary in Conclusion
 - *1.5 hours* Write the Future work in Conclusion
@@ -236,7 +237,7 @@ Week 10
 - *2 hour* Revise issues discussed in the meeting
 
 
-Week 11
+## Week 11
 ### 19 March 2024
 - *2 hour* Revise issues discussed in the meeting
 - *3 hours* Do the presentation's slides
