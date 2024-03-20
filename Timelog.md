@@ -65,14 +65,16 @@
 
 ## Week 7
 ### 30th October 2023
-- *1.5 hours* Filter the corpus and check which is users' comments
+- *2 hours* Filter the corpus and check which is users' comments
 ### 4th November 2023
-- *1 hour* Run Trec-TOT dataset on AgePredictor and check the age prediction interval
+- *1.5 hour* Set the environment on my laptop to run Trec-TOT dataset on AgePredictor
+### 5th November 2023
+- *1.5 hour* Run Trec-TOT dataset on AgePredictor and check the age prediction interval
 - *0.5 hour* Trying to find out why the predicted age range is so concentrated
 
 ## Week 8
 ### 7th November 2023
-- *0.5 hour* Use different keyword to search users‘ posts on 'I Remember this Movie' website that can be used to estimate users’ age
+- *1.5 hour* Use different keyword to search users‘ posts on 'I Remember this Movie' website that can be used to estimate users’ age
 ### 8th November 2023
 - *0.5 hour* Use different keyword to search users‘ posts on Reddit website that can be used to estimate users’ age
 - *1 hour* Consider another direction without estimating users' age
@@ -95,6 +97,7 @@
 ### 09 December 2023
 - *1.5 hour* Do the Retrieval and Evaluation step for the dev set
 - *1 hour* Calculate the MAP and nDCG score 
+- *1 hour* Write the Status report
 
 ## Week 13
 ### 13 December 2023
@@ -103,7 +106,7 @@
 - *1 hour* Find another Llama api and wait for the authenticate and get the key to use this api
 ### 17 December 2023
 - *1.5 hour* Find the document for this api and learn how to use it
-- *2.5 hours* Use Llama api to extract features plot, genre, character's infomation, city, and release date
+- *3.5 hours* Use Llama api to extract features plot, genre, character's infomation, city, and release date
 
 
 # Semester 2
@@ -113,7 +116,7 @@
 - *1 hour* Change the parameter based on the extracted contents
 - *1.5 hour* Change the plot to language
 ### 14 January 2024
-- *0.5 hour* Try to use university's api with vpn
+- *1.5 hour* Try to use university's api with vpn
 
 ## Week 2
 ### 20 January 2024
@@ -127,14 +130,16 @@
 - *1 hours* Changing Llama's parameters to make the extracted information more accurate
 - *3 hours* Remove date from the queries and calculate the MAP score
 ### 28 January 2024
-- *3.5 hours* Remove language, location, genre and music from the queries and calculate the MAP score and nDCG
+- *5.5 hours* Remove language, location, genre and music from the queries and calculate the MAP score and nDCG
+### 29 January 2024
 - *1.5 hours* Remove two features and calculate the MAP score
+- *1 hour* Calculate the frequency of each factors mentioned by users
 
 ## Week 4
 ### 29 January 2024
-- *2 hours* Extract and clean the wikidata_id from corpus and dev queries
+- *2.5 hours* Extract and clean the wikidata_id from corpus and dev queries
 ### 30 January 2024
-- *2.5 hours* Manually set the conditions to find the range of extracted dates
+- *4.5 hours* Manually set the conditions to find the range of extracted dates
 - *2 hours* Try to calculate the accuracy of date
 ### 3 February 2024
 - *3 hours* Re-delete the contents of the five features
@@ -153,12 +158,12 @@
 
 ## Week 6
 ### 13 February 2024
-- *4.5 hours* write the disstertion outline
+- *5 hours* write the disstertion outline
 ### 16 February 2024
-- *2 hours* write a part of Introduction
+- *2.5 hours* write a part of Introduction
 ### 17 February 2024
-- *1.5 hours* Finish the Introduction
-- *2 hours* Write the Related Works of Background
+- *2 hours* Finish the Introduction
+- *3 hours* Write the Related Works of Background
 ### 18 February 2024
 - *2 hours* Write the Related Works of Background
 
@@ -241,4 +246,8 @@
 ### 19 March 2024
 - *2 hour* Revise issues discussed in the meeting
 - *3 hours* Do the presentation's slides
-
+- *3 hours* Do the presentation slide
+### 20 March 2024
+- *2.5 hours* Write the presentation draft
+- *2 hours* Practice the presentation
+- *0.5 hour* Record the presentation
